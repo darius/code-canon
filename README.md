@@ -8,7 +8,8 @@ read enough of to judge as interesting in some way.
 Canonizing my personal recommendations is a little fraught, since I
 know some of the authors and potential authors. Don't take an omission
 as much of a signal; we all have finite time, biases, and different
-goals and tastes.
+goals and tastes. I'd love to get suggestions, by pull request or
+otherwise.
 
 Hopefully I'll add critical remarks, though I'm lazy.
 
@@ -27,8 +28,6 @@ Hopefully I'll add critical remarks, though I'm lazy.
 * iPython notebooks http://norvig.com/ipython/
 * "Design of computer programs" on Udacity https://www.udacity.com/course/design-of-computer-programs--cs212
 * on CodingBat http://codingbat.com/home/peter@norvig.com
-
-
 
 ## Kernighan and Pike, The Unix Programming Environment.
 
@@ -116,3 +115,7 @@ Lots of small but nontrivial examples of developing a program and its
 proof of correctness
 hand-in-hand. http://www.amazon.com/dp/013215871X/
 
+# Pending
+
+* kragen-hacks seems to be gone from the web now
+* <your favorites here>
