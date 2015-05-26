@@ -12,6 +12,12 @@ goals and tastes.
 
 Hopefully I'll add critical remarks, though I'm lazy.
 
+## Other lists
+
+(An exception to the my-own-judgement rule.)
+
+* https://python-guide.readthedocs.org/en/latest/writing/reading/
+
 ## Peter Norvig
 
 (I've contributed in small ways to several of these.)
