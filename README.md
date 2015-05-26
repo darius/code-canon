@@ -115,6 +115,11 @@ Lots of small but nontrivial examples of developing a program and its
 proof of correctness
 hand-in-hand. http://www.amazon.com/dp/013215871X/
 
+## https://github.com/rswier
+
+I've read https://github.com/rswier/c4 but not
+https://github.com/rswier/swieros
+
 # Pending
 
 * kragen-hacks seems to be gone from the web now
