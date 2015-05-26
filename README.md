@@ -22,6 +22,7 @@ Hopefully I'll add critical remarks, though I'm lazy.
 * Ask HN: What source code is worth studying? https://news.ycombinator.com/item?id=7602237
 * Ask HN: Good python code for code reading https://news.ycombinator.com/item?id=327710
 * https://python-guide.readthedocs.org/en/latest/writing/reading/
+* http://c2.com/cgi/wiki?ProgramsToRead
 * http://programmers.stackexchange.com/questions/38874/where-do-you-go-to-read-good-examples-of-source-code
 * http://c2.com/cgi/wiki?TipsForReadingCode
 * http://www.quora.com/Where-can-a-programming-beginner-go-to-read-good-code
@@ -35,7 +36,7 @@ http://lukego.github.io/blog/2012/10/24/readable-programs/
 
 * http://norvig.com/paip.html
 * Java, Lisp and Python Essays at http://norvig.com/
-* iPython notebooks http://norvig.com/ipython/
+* IPython notebooks http://norvig.com/ipython/
 * "Design of computer programs" on Udacity https://www.udacity.com/course/design-of-computer-programs--cs212
 * on CodingBat http://codingbat.com/home/peter@norvig.com
 
