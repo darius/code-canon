@@ -18,7 +18,7 @@ Hopefully I'll add critical remarks, though I'm lazy.
 (An exception to the my-own-judgement rule.)
 
 * http://www.gigamonkeys.com/code-reading/
-* Code Reading: The Open Source Perspective http://www.amazon.com/Code-Reading-Open-Source-Perspective/dp/0201799405
+* Code Reading: The Open Source Perspective http://www.spinellis.gr/codereading/
 * Ask HN: What source code is worth studying? https://news.ycombinator.com/item?id=7602237
 * Ask HN: Good python code for code reading https://news.ycombinator.com/item?id=327710
 * https://python-guide.readthedocs.org/en/latest/writing/reading/
