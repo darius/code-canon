@@ -3,7 +3,7 @@
 You've probably seen calls for recommendations for good code to read
 and study. When this comes up on aggregators and stackoveflow, the
 result is pretty scattershot. Here is my own list, with only code I've
-read enough of to judge as interesting in some way.
+read enough of to judge as in some way interesting.
 
 Canonizing my personal recommendations is a little fraught, since I
 know some of the authors and potential authors. Don't take an omission
@@ -27,6 +27,7 @@ Hopefully I'll add critical remarks, though I'm lazy.
 * http://www.quora.com/Where-can-a-programming-beginner-go-to-read-good-code
 * http://www.readingcodegood.com/
 * http://www.sitepoint.com/reading-ruby-professional-development/
+http://lukego.github.io/blog/2012/10/24/readable-programs/
 
 ## Peter Norvig
 
@@ -137,4 +138,4 @@ https://github.com/rswier/swieros
 # Pending
 
 * kragen-hacks seems to be gone from the web now
-* <your favorites here>
+* &lt;your favorites here&gt;
