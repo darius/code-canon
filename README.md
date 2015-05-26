@@ -13,11 +13,20 @@ otherwise.
 
 Hopefully I'll add critical remarks, though I'm lazy.
 
-## Other lists
+## Counterpoint: other lists, commentary, and tips
 
 (An exception to the my-own-judgement rule.)
 
+* http://www.gigamonkeys.com/code-reading/
+* Code Reading: The Open Source Perspective http://www.amazon.com/Code-Reading-Open-Source-Perspective/dp/0201799405
+* Ask HN: What source code is worth studying? https://news.ycombinator.com/item?id=7602237
+* Ask HN: Good python code for code reading https://news.ycombinator.com/item?id=327710
 * https://python-guide.readthedocs.org/en/latest/writing/reading/
+* http://programmers.stackexchange.com/questions/38874/where-do-you-go-to-read-good-examples-of-source-code
+* http://c2.com/cgi/wiki?TipsForReadingCode
+* http://www.quora.com/Where-can-a-programming-beginner-go-to-read-good-code
+* http://www.readingcodegood.com/
+* http://www.sitepoint.com/reading-ruby-professional-development/
 
 ## Peter Norvig
 
@@ -28,6 +37,11 @@ Hopefully I'll add critical remarks, though I'm lazy.
 * iPython notebooks http://norvig.com/ipython/
 * "Design of computer programs" on Udacity https://www.udacity.com/course/design-of-computer-programs--cs212
 * on CodingBat http://codingbat.com/home/peter@norvig.com
+
+## Barbara Liskov and John Guttag, Abstraction and Specification in Program Development
+
+It's hard to find good models of contracts and invariants driving and
+documenting code. This book with its examples taught me this.
 
 ## Kernighan and Pike, The Unix Programming Environment.
 
