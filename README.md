@@ -18,6 +18,7 @@ Hopefully I'll add critical remarks, though I'm lazy.
 (An exception to the my-own-judgement rule.)
 
 * http://www.gigamonkeys.com/code-reading/
+* http://www.hanselman.com/blog/CategoryView.aspx?category=Source+Code
 * Code Reading: The Open Source Perspective http://www.spinellis.gr/codereading/
 * Ask HN: What source code is worth studying? https://news.ycombinator.com/item?id=7602237
 * Ask HN: Good python code for code reading https://news.ycombinator.com/item?id=327710
@@ -28,7 +29,7 @@ Hopefully I'll add critical remarks, though I'm lazy.
 * http://www.quora.com/Where-can-a-programming-beginner-go-to-read-good-code
 * http://www.readingcodegood.com/
 * http://www.sitepoint.com/reading-ruby-professional-development/
-http://lukego.github.io/blog/2012/10/24/readable-programs/
+* http://lukego.github.io/blog/2012/10/24/readable-programs/
 
 ## Peter Norvig
 
@@ -136,7 +137,10 @@ hand-in-hand. http://www.amazon.com/dp/013215871X/
 I've read https://github.com/rswier/c4 but not
 https://github.com/rswier/swieros
 
-# Pending
+# Others' suggestions, or otherwise pending
 
 * kragen-hacks seems to be gone from the web now
+* [Physically Based Rendering: From Theory to Implementation](http://www.pbrt.org/)
+* [Lisp in Small Pieces](http://pagesperso-systeme.lip6.fr/Christian.Queinnec/WWW/LiSP.html)
+* [Implementing Elliptic Curve Cryptography](http://www.manning.com/rosing/)
 * &lt;your favorites here&gt;
