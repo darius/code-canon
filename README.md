@@ -41,6 +41,10 @@ Hopefully I'll add critical remarks, though I'm lazy.
 * "Design of computer programs" on Udacity https://www.udacity.com/course/design-of-computer-programs--cs212
 * on CodingBat http://codingbat.com/home/peter@norvig.com
 
+## Kragen Sitaker
+
+* [kragen-hacks](https://www.mail-archive.com/kragen-hacks@canonical.org/index.html) has lots of interesting short programs.
+
 ## Barbara Liskov and John Guttag, Abstraction and Specification in Program Development
 
 It's hard to find good models of contracts and invariants driving and
@@ -139,7 +143,6 @@ https://github.com/rswier/swieros
 
 # Others' suggestions, or otherwise pending
 
-* kragen-hacks seems to be gone from the web now
 * [Physically Based Rendering: From Theory to Implementation](http://www.pbrt.org/)
 * [Lisp in Small Pieces](http://pagesperso-systeme.lip6.fr/Christian.Queinnec/WWW/LiSP.html)
 * [Implementing Elliptic Curve Cryptography](http://www.manning.com/rosing/)
